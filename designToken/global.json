@@ -596,6 +596,62 @@
     }
   },
   "Spacing": {
+    "8": {
+      "value": "{Spacing.baseSpacing}*2",
+      "type": "spacing"
+    },
+    "12": {
+      "value": "{Spacing.8}+4",
+      "type": "spacing"
+    },
+    "16": {
+      "value": "{Spacing.12}+4",
+      "type": "spacing"
+    },
+    "20": {
+      "value": "{Spacing.16}+4",
+      "type": "spacing"
+    },
+    "24": {
+      "value": "{Spacing.20}+4",
+      "type": "spacing"
+    },
+    "28": {
+      "value": "{Spacing.24}+4",
+      "type": "spacing"
+    },
+    "32": {
+      "value": "{Spacing.28}+4",
+      "type": "spacing"
+    },
+    "40": {
+      "value": "{Spacing.32}+8",
+      "type": "spacing"
+    },
+    "48": {
+      "value": "{Spacing.40}+8",
+      "type": "spacing"
+    },
+    "56": {
+      "value": "{Spacing.48}+8",
+      "type": "spacing"
+    },
+    "64": {
+      "value": "{Spacing.56}+8",
+      "type": "spacing"
+    },
+    "72": {
+      "value": "{Spacing.64}+8",
+      "type": "spacing"
+    },
+    "80": {
+      "value": "{Spacing.72}+8",
+      "type": "spacing"
+    },
+    "96": {
+      "value": "{Spacing.80}+16",
+      "type": "spacing"
+    },
     "baseSpacing": {
       "value": "4",
       "type": "spacing"
